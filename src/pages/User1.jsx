@@ -6,7 +6,7 @@ import { FaCamera, FaMicrophone, FaCheckCircle, FaLeaf, FaSeedling, FaCertificat
 
 const HERB_JOURNEY = {
   "1": {
-    name: "Tulasi Drops",
+    name: "Ashwagandha Tablets",
     batchId: "TUL-AP-2025-01-12-07",
     
     // Focused processing stages with photos and audio
@@ -21,7 +21,7 @@ const HERB_JOURNEY = {
           {
             id: 1,
             title: "Seed Certificate",
-            url: "https://img.yumpu.com/50985548/1/500x640/certificate-of-authorization-implasa.jpg",
+            url: "https://img.yumpu.com/39732420/1/500x640/organic-certificate-seeds-of-change.jpg",
             description: "Official certification document"
           },
         ],
@@ -81,7 +81,7 @@ audio: {
           {
             id: 1,
             title: "Lab Test Report",
-            url: "https://examinechina.com/wp-content/uploads/2020/10/test-report-emc-certification-pass.png",
+            url: "https://cdn.shopify.com/s/files/1/0493/7298/7558/files/jaggery_68e5f818-299a-44ee-898e-6fae375cd867.jpg?v=1711119927 ",
             description: "Official test results document"
           },
         ],
@@ -101,7 +101,7 @@ audio: {
           {
             id: 1,
             title: "Extraction Process",
-            url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3AoqKeERZWxkmpYoE4KtN3O3kDBHHtULs2w&s",
+            url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWLWXvvMiG7arlj2xnh1QOFtu7e_NOiUwrA&s",
             description: "Herb extraction in progress"
           },
         ],
